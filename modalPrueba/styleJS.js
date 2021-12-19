@@ -30,4 +30,4 @@ window.addEventListener("click", function(e){
             modalC.style.visibility = "hidden";
         },500)
     }
-})
+});
